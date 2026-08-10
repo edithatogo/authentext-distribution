@@ -1,0 +1,311 @@
+{
+  "schema_version": 1,
+  "source_commit": "48dbab6b47d7cb06b8ccc6694432957c975bef94",
+  "receipts": [
+    {
+      "schema_version": 1,
+      "package": "authentext",
+      "target": "portable",
+      "source_commit": "48dbab6b47d7cb06b8ccc6694432957c975bef94",
+      "capabilities": {
+        "apps": [],
+        "tools": [],
+        "hooks": [],
+        "network": []
+      },
+      "exclusions": [
+        ".git",
+        ".github",
+        "conductor",
+        "coverage",
+        "experiments",
+        "node_modules",
+        "scripts",
+        "src",
+        "test"
+      ],
+      "files": [
+        {
+          "path": "skills/authentext/LICENSE",
+          "sha256": "356f7e7bd0e3f36caae91cc7d65d3b80b162a36f716064c24b1e7ae2e513674e"
+        },
+        {
+          "path": "skills/authentext/SKILL.md",
+          "sha256": "76e07eef212dba49d0603865ecdc9b3929d76f8af7c9c68130f81fb6396701fc"
+        },
+        {
+          "path": "skills/authentext/references/academic.md",
+          "sha256": "4c529da47a7c0bef36f911cf41374bad7f419f1207b44530023d7c399bc66a9c"
+        },
+        {
+          "path": "skills/authentext/references/core-patterns.md",
+          "sha256": "a0ba0ce46a08dd590c572476f930b03ecaa256b7e135cedbc4b237b1df29e524"
+        },
+        {
+          "path": "skills/authentext/references/foio-editorial.md",
+          "sha256": "0627d53fa627ea298650ba24c5c157d5888f3b8afbb97188466e38fc644071b1"
+        },
+        {
+          "path": "skills/authentext/references/governance.md",
+          "sha256": "cfccb9cfc9d7f502e925e5c390f765cd54e8dd1140ad98e936e032bea8a37392"
+        },
+        {
+          "path": "skills/authentext/references/reasoning-failures.md",
+          "sha256": "8e17b948d6cbc35faed005bec85fee08b3b7f3cfc9fb7a0cc55e9920c5b936cb"
+        },
+        {
+          "path": "skills/authentext/references/technical.md",
+          "sha256": "858305e85cd956de81a894bfce48ba50a40278fcc988d0971ec8c3fd97fa199b"
+        }
+      ]
+    },
+    {
+      "schema_version": 1,
+      "package": "authentext",
+      "target": "claude",
+      "source_commit": "48dbab6b47d7cb06b8ccc6694432957c975bef94",
+      "capabilities": {
+        "apps": [],
+        "tools": [],
+        "hooks": [],
+        "network": []
+      },
+      "exclusions": [
+        ".git",
+        ".github",
+        "conductor",
+        "coverage",
+        "experiments",
+        "node_modules",
+        "scripts",
+        "src",
+        "test"
+      ],
+      "files": [
+        {
+          "path": ".claude-plugin/marketplace.json",
+          "sha256": "4e381c0777852c8dc07a07068890912e25069b835ac552e226dcd442c136c38f"
+        },
+        {
+          "path": ".claude-plugin/plugin.json",
+          "sha256": "941ed8a7e98a1e253c7fb86d8aa5a68b7aff98af912f1d5e1ee7694bb27a784c"
+        },
+        {
+          "path": "skills/authentext/LICENSE",
+          "sha256": "356f7e7bd0e3f36caae91cc7d65d3b80b162a36f716064c24b1e7ae2e513674e"
+        },
+        {
+          "path": "skills/authentext/SKILL.md",
+          "sha256": "76e07eef212dba49d0603865ecdc9b3929d76f8af7c9c68130f81fb6396701fc"
+        },
+        {
+          "path": "skills/authentext/references/academic.md",
+          "sha256": "4c529da47a7c0bef36f911cf41374bad7f419f1207b44530023d7c399bc66a9c"
+        },
+        {
+          "path": "skills/authentext/references/core-patterns.md",
+          "sha256": "a0ba0ce46a08dd590c572476f930b03ecaa256b7e135cedbc4b237b1df29e524"
+        },
+        {
+          "path": "skills/authentext/references/foio-editorial.md",
+          "sha256": "0627d53fa627ea298650ba24c5c157d5888f3b8afbb97188466e38fc644071b1"
+        },
+        {
+          "path": "skills/authentext/references/governance.md",
+          "sha256": "cfccb9cfc9d7f502e925e5c390f765cd54e8dd1140ad98e936e032bea8a37392"
+        },
+        {
+          "path": "skills/authentext/references/reasoning-failures.md",
+          "sha256": "8e17b948d6cbc35faed005bec85fee08b3b7f3cfc9fb7a0cc55e9920c5b936cb"
+        },
+        {
+          "path": "skills/authentext/references/technical.md",
+          "sha256": "858305e85cd956de81a894bfce48ba50a40278fcc988d0971ec8c3fd97fa199b"
+        }
+      ]
+    },
+    {
+      "schema_version": 1,
+      "package": "authentext",
+      "target": "codex",
+      "source_commit": "48dbab6b47d7cb06b8ccc6694432957c975bef94",
+      "capabilities": {
+        "apps": [],
+        "tools": [],
+        "hooks": [],
+        "network": []
+      },
+      "exclusions": [
+        ".git",
+        ".github",
+        "conductor",
+        "coverage",
+        "experiments",
+        "node_modules",
+        "scripts",
+        "src",
+        "test"
+      ],
+      "files": [
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "25d32b333dba6802ff247a8e2d06d3cc569fc0ad3eb5d1f58a9d5452599d1ceb"
+        },
+        {
+          "path": "skills/authentext/LICENSE",
+          "sha256": "356f7e7bd0e3f36caae91cc7d65d3b80b162a36f716064c24b1e7ae2e513674e"
+        },
+        {
+          "path": "skills/authentext/SKILL.md",
+          "sha256": "76e07eef212dba49d0603865ecdc9b3929d76f8af7c9c68130f81fb6396701fc"
+        },
+        {
+          "path": "skills/authentext/references/academic.md",
+          "sha256": "4c529da47a7c0bef36f911cf41374bad7f419f1207b44530023d7c399bc66a9c"
+        },
+        {
+          "path": "skills/authentext/references/core-patterns.md",
+          "sha256": "a0ba0ce46a08dd590c572476f930b03ecaa256b7e135cedbc4b237b1df29e524"
+        },
+        {
+          "path": "skills/authentext/references/foio-editorial.md",
+          "sha256": "0627d53fa627ea298650ba24c5c157d5888f3b8afbb97188466e38fc644071b1"
+        },
+        {
+          "path": "skills/authentext/references/governance.md",
+          "sha256": "cfccb9cfc9d7f502e925e5c390f765cd54e8dd1140ad98e936e032bea8a37392"
+        },
+        {
+          "path": "skills/authentext/references/reasoning-failures.md",
+          "sha256": "8e17b948d6cbc35faed005bec85fee08b3b7f3cfc9fb7a0cc55e9920c5b936cb"
+        },
+        {
+          "path": "skills/authentext/references/technical.md",
+          "sha256": "858305e85cd956de81a894bfce48ba50a40278fcc988d0971ec8c3fd97fa199b"
+        }
+      ]
+    },
+    {
+      "schema_version": 1,
+      "package": "authentext",
+      "target": "gemini",
+      "source_commit": "48dbab6b47d7cb06b8ccc6694432957c975bef94",
+      "capabilities": {
+        "apps": [],
+        "tools": [],
+        "hooks": [],
+        "network": []
+      },
+      "exclusions": [
+        ".git",
+        ".github",
+        "conductor",
+        "coverage",
+        "experiments",
+        "node_modules",
+        "scripts",
+        "src",
+        "test"
+      ],
+      "files": [
+        {
+          "path": "gemini-extension.json",
+          "sha256": "0a2b6c477930a17a06a186d2b946d03c1b31ec9b9a59300ee42ffbd217d8f199"
+        },
+        {
+          "path": "skills/authentext/LICENSE",
+          "sha256": "356f7e7bd0e3f36caae91cc7d65d3b80b162a36f716064c24b1e7ae2e513674e"
+        },
+        {
+          "path": "skills/authentext/SKILL.md",
+          "sha256": "76e07eef212dba49d0603865ecdc9b3929d76f8af7c9c68130f81fb6396701fc"
+        },
+        {
+          "path": "skills/authentext/references/academic.md",
+          "sha256": "4c529da47a7c0bef36f911cf41374bad7f419f1207b44530023d7c399bc66a9c"
+        },
+        {
+          "path": "skills/authentext/references/core-patterns.md",
+          "sha256": "a0ba0ce46a08dd590c572476f930b03ecaa256b7e135cedbc4b237b1df29e524"
+        },
+        {
+          "path": "skills/authentext/references/foio-editorial.md",
+          "sha256": "0627d53fa627ea298650ba24c5c157d5888f3b8afbb97188466e38fc644071b1"
+        },
+        {
+          "path": "skills/authentext/references/governance.md",
+          "sha256": "cfccb9cfc9d7f502e925e5c390f765cd54e8dd1140ad98e936e032bea8a37392"
+        },
+        {
+          "path": "skills/authentext/references/reasoning-failures.md",
+          "sha256": "8e17b948d6cbc35faed005bec85fee08b3b7f3cfc9fb7a0cc55e9920c5b936cb"
+        },
+        {
+          "path": "skills/authentext/references/technical.md",
+          "sha256": "858305e85cd956de81a894bfce48ba50a40278fcc988d0971ec8c3fd97fa199b"
+        }
+      ]
+    },
+    {
+      "schema_version": 1,
+      "package": "authentext",
+      "target": "opencode",
+      "source_commit": "48dbab6b47d7cb06b8ccc6694432957c975bef94",
+      "capabilities": {
+        "apps": [],
+        "tools": [],
+        "hooks": [],
+        "network": []
+      },
+      "exclusions": [
+        ".git",
+        ".github",
+        "conductor",
+        "coverage",
+        "experiments",
+        "node_modules",
+        "scripts",
+        "src",
+        "test"
+      ],
+      "files": [
+        {
+          "path": "opencode.json",
+          "sha256": "7372ef9aefd03eafff950ca89ba2378f7a1f88b739b70e4219544cc9d3d574a7"
+        },
+        {
+          "path": "skills/authentext/LICENSE",
+          "sha256": "356f7e7bd0e3f36caae91cc7d65d3b80b162a36f716064c24b1e7ae2e513674e"
+        },
+        {
+          "path": "skills/authentext/SKILL.md",
+          "sha256": "76e07eef212dba49d0603865ecdc9b3929d76f8af7c9c68130f81fb6396701fc"
+        },
+        {
+          "path": "skills/authentext/references/academic.md",
+          "sha256": "4c529da47a7c0bef36f911cf41374bad7f419f1207b44530023d7c399bc66a9c"
+        },
+        {
+          "path": "skills/authentext/references/core-patterns.md",
+          "sha256": "a0ba0ce46a08dd590c572476f930b03ecaa256b7e135cedbc4b237b1df29e524"
+        },
+        {
+          "path": "skills/authentext/references/foio-editorial.md",
+          "sha256": "0627d53fa627ea298650ba24c5c157d5888f3b8afbb97188466e38fc644071b1"
+        },
+        {
+          "path": "skills/authentext/references/governance.md",
+          "sha256": "cfccb9cfc9d7f502e925e5c390f765cd54e8dd1140ad98e936e032bea8a37392"
+        },
+        {
+          "path": "skills/authentext/references/reasoning-failures.md",
+          "sha256": "8e17b948d6cbc35faed005bec85fee08b3b7f3cfc9fb7a0cc55e9920c5b936cb"
+        },
+        {
+          "path": "skills/authentext/references/technical.md",
+          "sha256": "858305e85cd956de81a894bfce48ba50a40278fcc988d0971ec8c3fd97fa199b"
+        }
+      ]
+    }
+  ]
+}
