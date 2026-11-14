@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it using these metadata and identify the
+  commit or release used.
+title: 'Authentext distribution: compatibility snapshot'
+authors:
+- name: authentext-next contributors
+repository-code: https://github.com/edithatogo/authentext-distribution
+url: https://github.com/edithatogo/authentext-distribution
+references:
+- type: software
+  title: Authentext
+  authors:
+  - name: authentext-next contributors
+  repository-code: https://github.com/edithatogo/authentext
+  url: https://github.com/edithatogo/authentext
